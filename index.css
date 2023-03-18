@@ -1,0 +1,31 @@
+div h2 {
+    text-align: center;
+    padding: 10px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: bold;
+}
+
+div p {
+    font-size: 30px;
+    text-align: center;
+}
+
+div {
+    padding-left: 15px;
+    /* border-style: solid; */
+    /* align-content: center; */
+    align-items: center;
+}
+
+div img {
+    padding-left: 10px;
+    margin-left: 25px;
+}
+
+body {
+    background-color: rgb(240, 206, 162);
+}
+
+.btn {
+    background-color: rgb(29, 72, 230);
+}
